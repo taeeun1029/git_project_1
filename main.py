@@ -24,4 +24,5 @@ operations[op](a, b)
     else: 
         print("Invalid operator.") 
  
-if __name__ == "__main__
+if __name__ == "__main__": 
+    calculator()
